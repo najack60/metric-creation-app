@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/metric-creation-app.git/static/css/main.7f06fc53.css",
+    "main.js": "/metric-creation-app.git/static/js/main.a639702f.js",
+    "index.html": "/metric-creation-app.git/index.html",
+    "main.7f06fc53.css.map": "/metric-creation-app.git/static/css/main.7f06fc53.css.map",
+    "main.a639702f.js.map": "/metric-creation-app.git/static/js/main.a639702f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f06fc53.css",
+    "static/js/main.a639702f.js"
+  ]
+}
