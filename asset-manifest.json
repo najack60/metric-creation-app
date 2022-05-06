@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/metric-creation-app/static/css/main.74166d75.css",
-    "main.js": "/metric-creation-app/static/js/main.c04602c6.js",
+    "main.js": "/metric-creation-app/static/js/main.54b37306.js",
     "index.html": "/metric-creation-app/index.html",
     "main.74166d75.css.map": "/metric-creation-app/static/css/main.74166d75.css.map",
-    "main.c04602c6.js.map": "/metric-creation-app/static/js/main.c04602c6.js.map"
+    "main.54b37306.js.map": "/metric-creation-app/static/js/main.54b37306.js.map"
   },
   "entrypoints": [
     "static/css/main.74166d75.css",
-    "static/js/main.c04602c6.js"
+    "static/js/main.54b37306.js"
   ]
 }
