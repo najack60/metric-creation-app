@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/metric-creation-app.git/static/css/main.7f06fc53.css",
-    "main.js": "/metric-creation-app.git/static/js/main.a639702f.js",
-    "index.html": "/metric-creation-app.git/index.html",
-    "main.7f06fc53.css.map": "/metric-creation-app.git/static/css/main.7f06fc53.css.map",
-    "main.a639702f.js.map": "/metric-creation-app.git/static/js/main.a639702f.js.map"
+    "main.css": "/metric-creation-app/static/css/main.74166d75.css",
+    "main.js": "/metric-creation-app/static/js/main.c04602c6.js",
+    "index.html": "/metric-creation-app/index.html",
+    "main.74166d75.css.map": "/metric-creation-app/static/css/main.74166d75.css.map",
+    "main.c04602c6.js.map": "/metric-creation-app/static/js/main.c04602c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f06fc53.css",
-    "static/js/main.a639702f.js"
+    "static/css/main.74166d75.css",
+    "static/js/main.c04602c6.js"
   ]
 }
