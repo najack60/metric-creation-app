@@ -10,6 +10,7 @@ function App() {
     <Layout>
     <Routes>
       <Route path="/" element={<MainPage />} />
+      <Route path="/metric-creation-app/" element={<MainPage />} />
       <Route path="/new-event" element={<NewEventPage />} />
       <Route path="/new-firestore-event" element={<NewFireBaseEventPage />} />
     </Routes>
